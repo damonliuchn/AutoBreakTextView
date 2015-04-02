@@ -12,15 +12,12 @@ import android.widget.TextView;
 
 import java.util.Vector;
 
-/**
- * Created by liumeng on 4/2/15.
- */
 public class AutoBreakTextView extends TextView {
-    public static int m_iTextHeight; // 文本的高度
-    public static int m_iTextWidth;// 文本的宽度
+    public static int m_iTextHeight;
+    public static int m_iTextWidth;
     private Paint mPaint = null;
     private String string = "";
-    private float LineSpace = 0;// 行间距
+    private float LineSpace = 0;
     private int padding;
 
     public AutoBreakTextView(Context context, AttributeSet set) {
