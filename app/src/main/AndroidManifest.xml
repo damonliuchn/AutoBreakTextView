@@ -1,16 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="net.masonliu.testmvp">
+    package="net.masonliu.testabt">
 
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme"
-        android:process="com.android.phone"
-        android:sharedUserId="android.uid.system">
+        android:theme="@style/AppTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="net.masonliu.testabt.MainActivity"
             android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

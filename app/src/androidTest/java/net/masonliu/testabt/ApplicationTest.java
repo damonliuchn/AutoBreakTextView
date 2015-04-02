@@ -1,4 +1,4 @@
-package net.masonliu.testmvp;
+package net.masonliu.testabt;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
