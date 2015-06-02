@@ -2,7 +2,7 @@
 /.gradle
 /local.properties
 /build
-/app/build
+/*/build
 *.apk
 *.iml
 
@@ -36,4 +36,3 @@ app/src/main/jniLibs/*/libsigner.so
 
 #mybuild.gradle
 app/mybuild.gradle
-config.properties

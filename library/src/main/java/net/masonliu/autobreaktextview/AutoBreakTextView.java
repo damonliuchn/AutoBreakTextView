@@ -1,4 +1,4 @@
-package net.masonliu.testabt;
+package net.masonliu.autobreaktextview;
 
 import android.content.Context;
 import android.graphics.Canvas;

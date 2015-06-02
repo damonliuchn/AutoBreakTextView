@@ -3,6 +3,8 @@ package net.masonliu.testabt;
 import android.os.Bundle;
 import android.support.v7.app.ActionBarActivity;
 
+import net.masonliu.autobreaktextview.AutoBreakTextView;
+
 
 public class MainActivity extends ActionBarActivity {
 
